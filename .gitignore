@@ -1,0 +1,5 @@
+README.md
+*.aux
+*.synctex.gz
+*.out
+*.log
