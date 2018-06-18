@@ -4,5 +4,7 @@ This project was for a class, CNS/CS/Bi/Ph 187 (Neural Computation) for Fall 201
 2) Testing effects of L1 and L2 regularization
 3) Testing various activation layers, (tanh, sigmoid, relu) and their effect on accuracy
 
+The writeup explaining the findings are located in `report.pdf`.
+
 To test some code, execute
 `python plot.py`
